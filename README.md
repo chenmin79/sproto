@@ -17,6 +17,13 @@ cp ./lpeg.so ../sprpto
 cd sproto
 make linux
 ```
+
+you may get error: readline.h not found
+install readline
+
+```
+sudo apt-get install libreadline-dev
+```
   
 # example
   
